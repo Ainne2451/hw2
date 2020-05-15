@@ -1,7 +1,4 @@
 from django.contrib import admin
-
-# Register your models here.
-from django.contrib import admin
 from hotelapi.models import booking,users
 # Register your models here.
 class usersAdmin(admin.ModelAdmin):
