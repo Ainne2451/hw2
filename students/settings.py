@@ -56,7 +56,7 @@ INSTALLED_APPS = [
     'studentsapp',
     #'test2api', # 新增的 app
     'func1api',
-
+    'hotelapi',
 ]
 
 MIDDLEWARE = [
